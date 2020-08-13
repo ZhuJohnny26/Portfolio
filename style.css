@@ -1,8 +1,28 @@
 .carousel-indicators li {
-    background-color: #999;
-    background-color: rgba(70, 70, 70, 0.25);
+    background-color: rgb(192, 186, 186);
+    /* background-color: rgba(70, 70, 70, 0.25); */
   }
   
-  .carousel-indicators .active {
+.carousel-indicators .active {
     background-color: #444;
-  }
+}
+
+.carousel-item {
+    background-color: rgb(79, 79, 121);
+}
+
+.row {
+    height: 600px;
+    margin: 10px;
+}
+
+.projects {
+    background-color: blueviolet;
+    border: 1px solid;
+    margin: 10px
+}
+
+#home {
+    
+    background-color: darkred
+}
